@@ -1,0 +1,33 @@
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    header, footer {
+      background-color: #ffc8edc9;
+      padding: 10px;
+      font-weight: bold;
+    }
+    .login-box {
+      margin: 50px auto;
+      padding: 20px;
+      border: 1px solid #f5d3f2;
+      width: 300px;
+      border-radius: 10px;
+    }
+    input[type="email"],
+    input[type="password"] {
+      width: 90%;
+      padding: 10px;
+      margin: 10px 0;
+      border: 1px solid #000;
+    }
+    button {
+      padding: 8px 20px;
+      background-color: #cc78b7;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
